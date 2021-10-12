@@ -113,13 +113,13 @@ div.carousel-caption, .author {
 /* Images used */
 #img1 { 
   background-color: #86A7CB;
-  background-image: url("bike-pics/shutterstock_171.jpg"); }
+  background-image: url("shutterstock_171.jpg"); }
 #img2 {
   background-color: #86A7CB;
-  background-image:  url("bike-pics/bike-dusk.jpg");}
+  background-image:  url("bikedusk.jpg");}
 #img3 {
   background-color: #86A7CB; 
-  background-image: url("bike-pics/shutterstock_107.jpg");}
+  background-image: url("shutterstock_107.jpg");}
 
 
 /* Position text in the middle of the page/image */
@@ -219,7 +219,7 @@ grid-area: pic-3;
 }
 #boxcar {
   width:100%;
-  background-image: url("bike-pics/pexels-flo-maderebner-623919.jpg");
+  background-image: url("pexels-flo-maderebner-623919.jpg");
   /* Full height */
   height: 60%;
   /* Center and scale the image nicely */
